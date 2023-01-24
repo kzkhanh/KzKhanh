@@ -211,6 +211,6 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-CatalizCS - [Facebook](https://facebook.com/100081129610697) - [GitHub](https://github.com/catalizcs) - miraiv2.official@gmail.com
+CatalizCS - [Facebook](https://facebook.com/100081129610697) - [GitHub](https://github.com/kzkhanh) - kz547547@gmail.com
 
-SpermLord - [GitHub](https://github.com/) - [Facebook](https://fb.me/MyNameIsSpermLord)
+SpermLord - [GitHub](https://github.com/) - [Facebook](https://fb.me/100081129610697)
